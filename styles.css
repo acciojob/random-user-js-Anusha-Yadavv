@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#userDetails {
+  margin-top: 20px;
+}
+
+#userImage {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+#additionalInfo {
+  margin-top: 20px;
+}
+
+button {
+  margin: 5px;
+}
